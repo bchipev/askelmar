@@ -104,7 +104,9 @@ html {
 }
 
 h1 {
-    font-weight: inherit; 
+    font-weight: inherit;
+    font-size: 72px;
+    padding: 75px 0 35px 0;
 }
 
 #footer {
@@ -114,8 +116,18 @@ h1 {
     padding: 25px 0;
 }
 
+.sentence {
+    font-size: 40px;
+    padding: 10px 0;
+}
 
+p {
+    font-size: 22px;
+}
 
+span {
+    color: red;
+}
 
 
 
