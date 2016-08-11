@@ -10,7 +10,8 @@ $(function() {
         "Just use duct tape.",
         "One Mozzarella salad.",
         "Live long and prosper.",
-        "My old PC is VR-ready"
+        "My old PC is VR-ready",
+        "My hands are the favourite part of my body. I do all my favourite things with them."
     ];
     var getRandomInteger = function(min, max) {
         return Math.floor((Math.random() * max) + min);
