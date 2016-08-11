@@ -4,12 +4,13 @@ $(function() {
         "I don't want to sit next to Dominik.",
         "Skype me a Hipchat message on my e-mail.",
         "Sorry, reinstalling Windows. Try again in 8 hours.",
-        "Try Google.",
-        "Are you still chewing? Let me know when your mouth is ready.",
-        "Are you sure your computer is plugged in?",
-        "Boot in safe mode.",
-        "Call the care police.",
-        "I can grill some meat."
+        "I can grill some meat.",
+        "Only if you have an ID and are above 18 y.o.",
+        "Sorry, I don't know how giftcards work. Can't help you.",
+        "Just use duct tape.",
+        "One Mozzarella salad.",
+        "Live long and prosper.",
+        "My old PC is VR-ready"
     ];
     var getRandomInteger = function(min, max) {
         return Math.floor((Math.random() * max) + min);
